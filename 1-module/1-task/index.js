@@ -9,8 +9,4 @@ function factorial(n) {
   }
 
   return result;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> aa5be496c7394d64c75996fee0e94154c8204177
